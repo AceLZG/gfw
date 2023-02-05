@@ -1,0 +1,9 @@
+payload:
+  # > AceLZG 
+  # > 2023-1-30
+  - DOMAIN-SUFFIX,openai.com
+  # > 2023-1-12
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,cool18.com
