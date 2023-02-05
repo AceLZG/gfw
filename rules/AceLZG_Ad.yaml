@@ -1,7 +1,8 @@
 payload:
   # > AceLZG_Ad
   # > 2023-2-5
-    #美剧网
-  - DOMAIN-SUFFIX,js.tydouke.com 
-    #gimy
-  - DOMAIN-SUFFIX,ads.superad.cc 
+  # 美剧网
+  - DOMAIN-SUFFIX,js.tydouke.com
+  
+  # gimy
+  - DOMAIN-SUFFIX,ads.superad.cc
